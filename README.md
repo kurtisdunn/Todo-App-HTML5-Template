@@ -1,3 +1,3 @@
 # Todo-HTML5-Template
-HTML5 CSS3 Template - Apple Watch Themed
-![alt tag](https://uxconsulting.com.au/assets/img/todo.png)
+Apple Watch Themed -  HTML5 &  CSS3 Template 
+![alt tag](http://uxconsulting.com.au/assets/img/todo.png)
